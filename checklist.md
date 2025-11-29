@@ -60,7 +60,7 @@
 ### 5. Docker（必备）
 - 用途：运行课程中的本地服务
 - 安装建议：
-  - macOS：Docker Desktop（https://www.docker.com/products/docker-desktop/）
+  - macOS：OrbStack（https://orbstack.dev/）
   - Windows：Docker Desktop / WSL2 + Docker（同上链接）
   - Linux：根据发行版安装 `docker` + `docker-compose`（参考 https://docs.docker.com/engine/install/）
 - 自检：
